@@ -2,8 +2,6 @@
 <h3 align="center">A passionate .NET software developer from Romania</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **ASP.NET Core MVC & Entity Framework**
-
 - 👨‍💻 All of my projects are available at [https://github.com/adriana-maftei?tab=repositories](https://github.com/adriana-maftei?tab=repositories)
 
 - 📫 Reach me at **adrianamaftei.contact@gmail.com**
