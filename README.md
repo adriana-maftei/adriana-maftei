@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adriana</h1>
-<h3 align="center">A passionate backend developer from Romania</h3>
+<h3 align="center">A passionate backend web developer from Romania</h3>
 
 👨‍💻 All of my projects are available at [https://github.com/adriana-maftei?tab=repositories](https://github.com/adriana-maftei?tab=repositories)
 
